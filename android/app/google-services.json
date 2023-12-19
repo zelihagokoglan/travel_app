@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "481179826571",
+    "project_id": "havefuntravel-50410",
+    "storage_bucket": "havefuntravel-50410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481179826571:android:0cb035d86a5a33b64cd78e",
+        "android_client_info": {
+          "package_name": "com.example.travelexperience"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481179826571-8o3fmnm8m8u5cnvpqe4lsdoj0q0vjtii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3vfL6za64DUfictYYmqPGlGZmd6LaXlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481179826571-8o3fmnm8m8u5cnvpqe4lsdoj0q0vjtii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
